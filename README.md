@@ -1,2 +1,2 @@
 # HappiestMindsDevops
-Test repository for devops
+Testing from local machine
